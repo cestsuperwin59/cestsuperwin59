@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Winnie Thongpan 
+- 👋 Hi, I’m Thongpan 
 - 👀 I’m interested in Data Science, web developer, and software development.
-- 🌱 I’m currently learning SQL, HTML, CSS.
+- 🌱 I’m currently participated on data analysis bootcamp, SQL, HTML, CSS.
 - 📫 How to reach me ...
 
 <!---
