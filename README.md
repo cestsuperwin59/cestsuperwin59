@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Thongpan 
 - 👀 I’m interested in Data Science, web developer, and software development.
 - 🌱 I’m currently participated on data analysis bootcamp, SQL, HTML, CSS.
+- Coursera google data analytics: https://www.coursera.org/account/accomplishments/specialization/certificate/E6KPLJLACQ97
 - 📫 How to reach me ...
 
 <!---
