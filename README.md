@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Thongpan 
 - 👀 I’m interested in Data Science, web developer, and software development.
 - 🌱 I’m currently participated on data science bootcamp.
+- Data science bootcamp: https://api.badgr.io/public/assertions/oleW7CwTS4-Qd8KfGKw-Ug?identity__email=winmicro40%40gmail.com
 - Coursera google data analytics: https://www.coursera.org/account/accomplishments/specialization/certificate/E6KPLJLACQ97
 - 📫 How to reach me: winmicro40@gmail.com
 
